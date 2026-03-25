@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void swap(int *a, int *b);
+koid swap(int *a, int *b);
 
 int partition(int arr[], int low, int high) {
 
